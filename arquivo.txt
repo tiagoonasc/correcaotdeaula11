@@ -1,1 +1,32 @@
-ola mundo
+﻿ola mundo
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ante neque, condimentum sed accumsan vitae, sodales ut lectus. Vivamus elementum lobortis felis dignissim lacinia. Nullam placerat blandit ligula in egestas. Sed iaculis erat magna, ac gravida eros pellentesque nec. Cras non ligula quis est placerat finibus a id magna. In tincidunt sagittis purus, sed pulvinar magna dictum non. Mauris sed urna blandit, vestibulum enim a, ultricies dui. Donec ornare felis arcu, quis bibendum leo tristique quis. Donec sit amet egestas nibh. Pellentesque efficitur sapien vitae molestie placerat. Maecenas facilisis aliquam quam, et ultricies quam aliquet eu. Sed non sollicitudin tellus, nec posuere sem. Phasellus augue ex, ultrices rhoncus purus at, consequat hendrerit nibh. Proin euismod massa at dolor commodo, mollis tincidunt risus gravida. Nunc pharetra at nisi facilisis faucibus.
+
+Ut ac diam neque. Proin a turpis gravida, lacinia urna eget, mattis nunc. Curabitur fermentum velit vel ipsum pretium dictum. Nulla erat lacus, porttitor ut tempus et, consectetur non dui. Nulla interdum ipsum sed rhoncus efficitur. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam maximus urna id sem porttitor tincidunt. Donec lorem risus, pharetra finibus metus vitae, elementum vestibulum mauris. Donec ullamcorper, orci non sollicitudin elementum, erat diam pulvinar leo, ornare scelerisque ex dui eu augue. Vestibulum rutrum nulla lobortis purus blandit pellentesque.
+
+
+
+
+
+
+
+
+correção aula 11
+
+Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
